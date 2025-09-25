@@ -1,4 +1,5 @@
 package com.example.zephyr;
 
-public class Circle {
+public class Circle extends Shape {
+
 }
