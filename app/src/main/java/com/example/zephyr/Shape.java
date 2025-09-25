@@ -1,4 +1,6 @@
 package com.example.zephyr;
 
-public class Shape {
+public abstract class Shape {
+    int x;
+    int y;
 }
